@@ -1,4 +1,4 @@
-# 🎮 Game Launcher
+# 🎮 LAJE Launcher
 
 Launcher em estilo videogame feito em **Godot** para expor os jogos da nossa liga de jogos eletrônicos em eventos. O jogador navega pelos ícones dos jogos, seleciona um e o launcher abre o `.exe` correspondente em primeiro plano. Quando o jogo é fechado, o launcher volta automaticamente para a tela de seleção.
 
