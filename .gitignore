@@ -1,0 +1,7 @@
+# pasta onde vão ficar os executáveis dos jogos
+games/
+
+# arquivos dos executáveis do projeto
+*.exe
+*.x86_64
+*.pck
