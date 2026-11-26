@@ -18,5 +18,15 @@
         "name": "Topo do Mundo",
         "exe": "games/topo_do_mundo/topo.exe",
         "icon": "games/topo_do_mundo/topo_icon.png"
+    },
+    {
+        "name": "Grunge",
+        "exe": "games/grunge/GRUNGE_WINDOWS/GRUNGE_WINDOWS.exe",
+        "icon": "games/grunge/grunge_icon.png"
+    },
+    {
+        "name": "Depois do Espetáculo",
+        "exe": "games/Depois do espetáculo - Tiro ao alvo/Depois do Espetaculo - Tiro ao Alvo/com.gamemaker.exe",
+        "icon": "games/Depois do espetáculo - Tiro ao alvo/depois_do_espetaculo_icon.png"
     }
 ]
