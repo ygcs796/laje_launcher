@@ -3,5 +3,20 @@
         "name": "shift",
         "exe": "games/shift/shift.exe",
         "icon": "games/shift/shift_icon.jpg"
+    },
+    {
+        "name": "7 Errinhos",
+        "exe": "games/7_errinhos/7Errinhos_Build3/7Errinhos_Build3/7 Errinhos.exe",
+        "icon": "games/7_errinhos/7Errinhos_Build3/7Errinhos_Build3/7_errinhos_icon.jpeg"
+    },
+    {
+        "name": "FaberCarimbos Inc",
+        "exe": "games/fabercarimbos_inc/FaberCarimbos_Inc/FaberCarimbos_Inc.exe",
+        "icon": "games/fabercarimbos_inc/FaberCarimbos_Inc/fabercarimbos_inc_icon.jpeg"
+    },
+    {
+        "name": "Topo do Mundo",
+        "exe": "games/topo_do_mundo/topo.exe",
+        "icon": "games/topo_do_mundo/topo_icon.png"
     }
 ]

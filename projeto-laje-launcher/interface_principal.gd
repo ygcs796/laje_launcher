@@ -1,6 +1,6 @@
 extends Control
 
-@onready var grid_container = $CenterContainer/GridContainer
+@onready var grid_container = $HFlowContainer
 var base_dir := OS.get_executable_path().get_base_dir()
 var pid := -1
 

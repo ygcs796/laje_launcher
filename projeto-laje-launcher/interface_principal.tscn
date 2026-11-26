@@ -20,16 +20,13 @@ grow_horizontal = 2
 grow_vertical = 2
 color = Color(0.29553205, 0.020519512, 0.2288844, 1)
 
-[node name="CenterContainer" type="CenterContainer" parent="." unique_id=1163207153]
+[node name="HFlowContainer" type="HFlowContainer" parent="." unique_id=1744161326]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-
-[node name="GridContainer" type="GridContainer" parent="CenterContainer" unique_id=1582139157]
-layout_mode = 2
 theme_override_constants/h_separation = 40
 theme_override_constants/v_separation = 40
-columns = 3
+alignment = 1
